@@ -19,7 +19,7 @@ const HeroSection = () => {
           {' '}
           I'm a{' '}
           <Typed
-            strings={['Fullstack Developer', 'UI/UX Designer', 'Mobile App Developer']}
+            strings={['Software Engineer', 'Dancer', 'Sneaker Head']}
             typeSpeed={60}
             backSpeed={30}
             loop
