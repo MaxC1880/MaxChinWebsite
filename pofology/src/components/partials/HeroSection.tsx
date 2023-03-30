@@ -12,7 +12,7 @@ const HeroSection = () => {
       <HeroBackground />
       <div className="flex flex-col items-center">
         <div className="overflow-hidden rounded-full">
-          <Image src="https://ibb.co/Z8RG3D5" width={180} height={180} alt="avatar" />
+          <Image src="/images/avatar/man.png" width={180} height={180} alt="avatar" />
         </div>
         <h1 className="mt-4 text-3xl font-bold ">Maxwell Chin</h1>
         <div className="mt-2 flex gap-1">
