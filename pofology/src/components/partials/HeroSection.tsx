@@ -12,7 +12,7 @@ const HeroSection = () => {
       <HeroBackground />
       <div className="flex flex-col items-center">
         <div className="overflow-hidden rounded-full">
-          <Image src="/images/avatar/man.png" width={180} height={180} alt="avatar" />
+          <Image src="https://cdn.discordapp.com/attachments/777299557205409812/1090850584543907860/IMG_2081.jpg" width={180} height={180} alt="avatar" />
         </div>
         <h1 className="mt-4 text-3xl font-bold ">Maxwell Chin</h1>
         <div className="mt-2 flex gap-1">
