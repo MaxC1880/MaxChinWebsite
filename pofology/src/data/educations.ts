@@ -2,11 +2,11 @@ import { Education } from '@/types';
 
 export const educations: Education[] = [
   {
-    degree: 'Bachelor of Science',
-    school: 'University of California',
-    startDate: 'Jan 2017',
-    endDate: 'Dec 2018',
-    description: 'Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.',
+    degree: 'Bachelor of Science in Computer Science and Finance',
+    school: 'University of Maryland, College Park',
+    startDate: 'Aug 2022',
+    endDate: 'May 2025',
+    description: 'Currently pursuing a double major at UMD, hoping to finish in the spring of 2025.',
   },
   {
     degree: 'Master of Science',
