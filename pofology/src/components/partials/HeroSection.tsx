@@ -17,11 +17,11 @@ const HeroSection = () => {
         <h1 className="mt-4 text-3xl font-bold ">Maxwell Chin</h1>
         <div className="mt-2 flex gap-1">
           {' '}
-          I'm a{' '}
+          I'm{' '}
           <Typed
-            strings={['Software Engineer', 'Dancer', 'Sneaker Head']}
-            typeSpeed={40}
-            backSpeed={20}
+            strings={['an aspiring Software Engineer', 'a quant and AI/ML enthusiast', 'an avid kpop/ballroom dancer', 'lowkey a sneaker head']}
+            typeSpeed={25}
+            backSpeed={15}
             loop
           />
         </div>
