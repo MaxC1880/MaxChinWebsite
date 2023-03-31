@@ -20,8 +20,8 @@ const HeroSection = () => {
           I'm a{' '}
           <Typed
             strings={['Software Engineer', 'Dancer', 'Sneaker Head']}
-            typeSpeed={20}
-            backSpeed={10}
+            typeSpeed={40}
+            backSpeed={20}
             loop
           />
         </div>
