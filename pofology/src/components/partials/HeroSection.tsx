@@ -26,14 +26,14 @@ const HeroSection = () => {
           />
         </div>
         <div className="mt-4  flex gap-5">
-          <Link href="https://www.instragram.com">
+          <Link href="https://www.instagram.com/maxwell_.c/">
             <a className="text-gray-700 transition-colors duration-150 hover:text-primary-500">
               <FiInstagram size={25} />
             </a>
           </Link>
-          <Link href="https://www.twitter.com">
+          <Link href="https://www.linkedin.com/in/maxwellchin04/">
             <a className="text-gray-700 transition-colors duration-150 hover:text-primary-500">
-              <FiTwitter size={25} />
+              <FiDribbble size={25} />
             </a>
           </Link>
           <Link href="https://www.facebook.com">
@@ -41,12 +41,7 @@ const HeroSection = () => {
               <FiFacebook size={25} />
             </a>
           </Link>
-          <Link href="https://www.dribble.com">
-            <a className="text-gray-700 transition-colors duration-150 hover:text-primary-500">
-              <FiDribbble size={25} />
-            </a>
-          </Link>
-          <Link href="https://www.github.com">
+          <Link href="https://github.com/MaxC1880">
             <a className="text-gray-700 transition-colors duration-150 hover:text-primary-500">
               <FiGithub size={25} />
             </a>
