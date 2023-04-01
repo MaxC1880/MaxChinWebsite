@@ -21,10 +21,11 @@ const AboutSection = () => {
         </div>
 
         {/* Skills */}
+        <SectionTitle>Skills</SectionTitle>
         <div className="grid grid-cols-2 gap-x-6 gap-y-4">
           <div className="">
             <div className="mb-3 flex justify-between">
-              <h6 className="font-semibold">Backend</h6>
+              <h6 className="font-semibold">Java</h6>
               <p>85%</p>
             </div>
             <ProgressBar color="blue" progress={85} />
