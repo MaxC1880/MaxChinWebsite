@@ -20,9 +20,9 @@ const AboutSection = () => {
           <Button className="mt-5">Download CV</Button>
         </div>
 
-        {/* Skills */}
         <SectionTitle>Skills</SectionTitle>
         <div className="grid grid-cols-2 gap-x-6 gap-y-4">
+          {/* Skills */}
           <div className="">
             <div className="mb-3 flex justify-between">
               <h6 className="font-semibold">Java</h6>
