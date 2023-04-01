@@ -20,12 +20,11 @@ const AboutSection = () => {
           <Button className="mt-5">Download CV</Button>
         </div>
 
-        <SectionTitle>Skills</SectionTitle>
+        {/* Skills */}
         <div className="grid grid-cols-2 gap-x-6 gap-y-4">
-          {/* Skills */}
           <div className="">
             <div className="mb-3 flex justify-between">
-              <h6 className="font-semibold">Java</h6>
+              <h6 className="font-semibold">Backend</h6>
               <p>85%</p>
             </div>
             <ProgressBar color="blue" progress={85} />
@@ -71,8 +70,8 @@ const AboutSection = () => {
             <FiCoffee size={50} />
           </div>
           <div>
-            <h2 className="text-3xl font-bold">30+</h2>
-            <p className="mt-1">Cup of Coffee</p>
+            <h2 className="text-3xl font-bold">10+</h2>
+            <p className="mt-1">Coding languages known</p>
           </div>
         </div>
 
@@ -81,8 +80,8 @@ const AboutSection = () => {
             <HiOutlineUsers size={50} />
           </div>
           <div>
-            <h2 className="text-3xl font-bold">15+</h2>
-            <p className="mt-1">Satisfied clients</p>
+            <h2 className="text-3xl font-bold">2+</h2>
+            <p className="mt-1">Years of experience in backend</p>
           </div>
         </div>
 
@@ -91,8 +90,8 @@ const AboutSection = () => {
             <HiOutlineChartBar size={50} />
           </div>
           <div>
-            <h2 className="text-3xl font-bold">5+</h2>
-            <p className="mt-1">Years of experience</p>
+            <h2 className="text-3xl font-bold">1+</h2>
+            <p className="mt-1">Years of experience in front end</p>
           </div>
         </div>
       </div>
