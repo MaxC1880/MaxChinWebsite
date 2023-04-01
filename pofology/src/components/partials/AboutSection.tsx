@@ -77,7 +77,7 @@ const AboutSection = () => {
 
         <div className="flex">
           <div className="mr-5 text-gray-300">
-            <HiOutlineUsers size={50} />
+            <HiOutlineChartBar size={50} />
           </div>
           <div>
             <h2 className="text-3xl font-bold">2+</h2>
