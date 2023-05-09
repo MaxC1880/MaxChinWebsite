@@ -19,8 +19,8 @@ const HeroSection = () => {
           {' '}
           I'm{' '}
           <Typed
-            strings={['an aspiring Software Engineer', 'a quant and AI/ML enthusiast', 'an avid kpop/ballroom dancer', 'lowkey a sneaker head']}
-            typeSpeed={15}
+            strings={['an aspiring Software Engineer', 'a quant and AI/ML enthusiast', 'lowkey a sneaker head']}
+            typeSpeed={20}
             backSpeed={15}
             loop
           />
