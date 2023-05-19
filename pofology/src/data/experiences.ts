@@ -6,7 +6,7 @@ export const experiences: Experience[] = [
     company: 'Northrop Grumman',
     startDate: 'Jun 2023',
     endDate: 'Aug 2023',
-    description: 'Utilizing C++, Typescript, and Linux for the Defense Team',
+    description: 'Utilizing Python wiht data analysis tools, such as pandas, numpy, and matplotlib',
   },
 /*
   {
