@@ -13,7 +13,7 @@ const AboutSection = () => {
         {/* Bio */}
         <div className="">
           <p className="text-justify">
-            Hello! My name is Maxwell Chin and I am currently a freshmen at the Univeristy of Maryland pursuing a double major in computer science in finance. Few of
+            Hello! My name is Maxwell Chin and I am currently a sophomore at the Univeristy of Maryland pursuing a double major in computer science in finance. Few of
             future aspirations include quant, cybersecurity, data science, or basic swe. In my free time I really love dancing, cooking, video games or playing sports like volleyball
             and ping pong. 
           </p>
