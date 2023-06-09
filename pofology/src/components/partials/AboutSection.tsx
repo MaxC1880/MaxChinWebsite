@@ -14,8 +14,9 @@ const AboutSection = () => {
         <div className="">
           <p className="text-justify">
             Hello! My name is Maxwell Chin and I am currently a sophomore at the Univeristy of Maryland pursuing a double major in computer science in finance. Few of
-            future aspirations include quant, cybersecurity, data science, or basic swe. In my free time I really love dancing, cooking, video games or playing sports like volleyball
-            and ping pong. 
+            future aspirations include quant, cybersecurity, data science, or basic swe. One of my biggest dreams is to one day work at Riot Games, the company
+            behind my favorites games to play. In my free time I really love dancing, cooking, video games or playing sports like volleyball
+            and ping pong.
           </p>
           <Button className="mt-5">Download CV</Button>
         </div>
